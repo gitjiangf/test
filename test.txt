@@ -4,4 +4,8 @@ dasdafad
 
 dasdafa
 :wq
+<<<<<<< HEAD
 master change
+=======
+new line
+>>>>>>> feature1
